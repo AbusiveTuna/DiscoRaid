@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Disco Raid!
+Turns your purples (or other chests) into a party!
